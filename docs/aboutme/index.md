@@ -1,6 +1,6 @@
 #About Me
 
-Hello! My name is Lexie Cox and I am a mechanical engineering major at UNC Charlotte. This page will be used to show my work and progress throughout my time in MEGR 2157. I also hope to showcase my skills and communicate with others through this page.
+Hello! My name is Lexie Cox and I am a mechanical engineering major at UNC Charlotte. This page will be used to show my work and progress throughout my time in MEGR 2157 lab. I also hope to showcase my skills and communicate with others through this page.
 
 <img width="488" height="572" alt="IMG_3948 (1)" src="https://github.com/user-attachments/assets/636958e2-9c26-4a8f-badc-0e75a06c2301" />
 
@@ -8,7 +8,7 @@ When I was asked what I wanted to be when I grew up I had a different answer eve
 
 <img width="4000" height="3000" alt="20240106_162157" src="https://github.com/user-attachments/assets/79215ed0-6b8b-477b-95fe-1489df24e2c6" />
 
-After I graduate, I plan on going to grad school and getting my masters in biomedical engineering. I have aspirations to go research, specifically on neuro stimulators and other prosthetics. I have recently been in the works to try and be an intern or an assistant of a team that is doing a clinical trial of a new cancer treatment. I love the research aspect of engineering and all of the trials and errors of the process. I aspire to be able to help people through engineering and use my skills to do so.
+After I graduate, I plan on going to grad school and getting my masters in biomedical engineering. I have aspirations to go research, specifically on neuro stimulators and other prosthetics. I have recently been in the works to try and be an intern or an assistant of a team that is doing a clinical trial of a new cancer treatment. This is why I chose the 3D printing lab, I feel that it will be more benificial to my future works rather than the machine shop. I love the research aspect of engineering and all of the trials and errors of the process. I aspire to be able to help people through engineering and use my skills to do so. 
 
 #Keep in touch with me!
 
