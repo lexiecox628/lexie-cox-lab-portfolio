@@ -15,7 +15,7 @@ My print was downloaded from (insert link)
 When I was younger penguins were my favorite animal. I thought that printing a small one would be a small node to my childhood and a good keepsake. 
 
 <img width="277" height="252" alt="Screenshot 2026-08-30 144328" src="https://github.com/user-attachments/assets/66db520f-21df-4b20-83e0-3b743e45ae2a" />
-<img width="277" height="1252" alt="Screenshot 2026-08-30 144348" src="https://github.com/user-attachments/assets/e9851a32-fc2a-45a8-ae3e-67dd97df3467" />
+<img width="277" height="252" alt="Screenshot 2026-08-30 144348" src="https://github.com/user-attachments/assets/e9851a32-fc2a-45a8-ae3e-67dd97df3467" />
 <img width="518" height="275" alt="Screenshot 2026-08-30 144335" src="https://github.com/user-attachments/assets/acb6f85e-9a4a-47df-b675-356889b7e288" />
 
 Front, side, and top views before slicing
