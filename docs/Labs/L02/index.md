@@ -19,11 +19,12 @@ Original settings
 
 I chose the build orientation of my design on the feet of the penguin because it was a good base for the print to build off of. It also had a flat bottom which was helpful because the entire design had something to base it off of. If it was oriented off the top of the penguin it would have to have supports since it is bowl shaped. As a group we put all of our designs in the middle of the plate and close together. This is because we wanted the print to be done as fast as possible due to the time constraint. With putting all the prints in the middle of the plate the hot end assembly does not have to move around as much and they are all oriented in the middle so its not having to move across the plate. 
 
-https://mail.google.com/mail/u/0?ui=2&ik=19c6c24391&attid=0.3&permmsgid=msg-a:r1260660768153476608&th=1a05ac0e6ccfea26&view=att&disp=safe&realattid=1a05ac0d09cae4c4922&zw
+<img width="1206" height="758" alt="IMG_3884" src="https://github.com/user-attachments/assets/d786dcf9-5d36-4003-81bc-1f425c4a954d" />
 
 I did not need to use any kind of supports on my print.
 
-
+My print did need to be scaled. In order to meet the time requirement we had to scale it down. 
+<img width="476" height="270" alt="IMG_3883" src="https://github.com/user-attachments/assets/ecfd9145-fed5-4b4e-b411-068ab9133ef4" />
 
 
 
