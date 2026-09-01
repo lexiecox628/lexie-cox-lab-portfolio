@@ -42,7 +42,7 @@ The printer that I used was printer 5 and my group members were Morgan Gregory w
 
 I first learned how to operate the printer from a demonstration from Dr. Fagen. I learned how to turn on the printer, upload my file, and start the print, as well as take the final print off of the plate. After forming the group and making our designs we took the file from Morgan's computer and put it on the USB which then connected to the printer. The file was all correct so the print went smoothly and there were no broken parts. 
 
-https://github.com/user-attachments/assets/794ef764-8bf9-4f05-9ae8-5ce23ef26b52
+https://github.com/lexiecox628/lexie-cox-lab-portfolio/issues/1#issue-5307733996
 
 <img width="277" height="252" alt="IMG_1193" src="https://github.com/user-attachments/assets/9c577488-0cf1-4712-922d-a5d821670eac" />
 <img width="277" height="252" alt="IMG_1191" src="https://github.com/user-attachments/assets/e74263d4-8f60-4618-9dff-26cc232fc083" />
