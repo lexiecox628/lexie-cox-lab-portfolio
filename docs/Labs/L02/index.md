@@ -8,9 +8,9 @@ My print was downloaded from https://www.printables.com/model/708783-small-pengu
 
 When I was younger penguins were my favorite animal. I thought that printing a small one would be a small node to my childhood and a good keepsake. 
 
-Another design that I almost picked was a small pair of tweezers. I thought that these would be a helpful tool that could fit into my bookbag. I did not pick it because of the time constraint. I feel that it would be hard to scale down and be able to print in time with other designs on the file.  https://www.printables.com/model/1233763-small-tweezers
-
 <img width="1527" height="856" alt="Screenshot 2026-08-31 235139" src="https://github.com/user-attachments/assets/34840894-34d9-4292-8260-dacbfd001ead" />
+
+Another design that I almost picked was a small pair of tweezers. I thought that these would be a helpful tool that could fit into my bookbag. I did not pick it because of the time constraint. I feel that it would be hard to scale down and be able to print in time with other designs on the file.  https://www.printables.com/model/1233763-small-tweezers
 
 <img width="277" height="252" alt="Screenshot 2026-08-30 144328" src="https://github.com/user-attachments/assets/66db520f-21df-4b20-83e0-3b743e45ae2a" />
 <img width="277" height="252" alt="Screenshot 2026-08-30 144348" src="https://github.com/user-attachments/assets/e9851a32-fc2a-45a8-ae3e-67dd97df3467" />
@@ -46,18 +46,19 @@ https://github.com/user-attachments/assets/794ef764-8bf9-4f05-9ae8-5ce23ef26b52
 
 <img width="277" height="252" alt="IMG_1193" src="https://github.com/user-attachments/assets/9c577488-0cf1-4712-922d-a5d821670eac" />
 <img width="277" height="252" alt="IMG_1191" src="https://github.com/user-attachments/assets/e74263d4-8f60-4618-9dff-26cc232fc083" />
-<img width="554" height="275" alt="IMG_1192" src="https://github.com/user-attachments/assets/934dfd16-2f4c-460c-9bcd-ee3f3dc87db3" />
+<img width="300" height="275" alt="IMG_1192" src="https://github.com/user-attachments/assets/934dfd16-2f4c-460c-9bcd-ee3f3dc87db3" />
 
 Finished front, side, and top view
 
 ##Lessons Learned
 
-I learned the different types of filament specifically between PETG and PLA. PETG is more flexible and it is tougher. While PLA is easier to print and it melts at a lower temperature. 
+I learned the different types of filament specifically between PETG and PLA. PETG is more flexible and it is tougher. While PLA is easier to print and it melts at a lower temperature. This will be helpful in the future when I am assessing which type of filament I will use for future projects. 
 
+Another thing I learned was why additive manufacturing is useful and the future of design. With additive manufacturing you build something by building pieces by adding layer by layer. Unlike how most things are built today where parts come from cutting the parts out of one bug material. It is also easier to modify projects and find ways to maximize the material without having to waste any of it. 
 
 **Independent Research**
 
-One specific guideline for 3D modeling is to think about the wall thickness and have at least a 1.2 factor of safety because you don't want the wall to collapse or the object to fracture. 
+One specific guideline for 3D modeling is to think about the wall thickness and have at least a 1.2 factor of safety because you don't want the wall to collapse or the object to fracture. This is important because when you are printing something you don't want it to collapse or be too brittle. It is also something that allows you to be sure of your work, not only in 3D design but in other projects.
 
 Source: https://bigrep.com/posts/design-for-additive-manufacturing/ 
 
