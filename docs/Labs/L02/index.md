@@ -15,8 +15,20 @@ Front, side, and top views before slicing
 
 Original settings
 
+#Preprocessor
 
-#Independent Research
+I chose the build orientation of my design on the feet of the penguin because it was a good base for the print to build off of. It also had a flat bottom which was helpful because the entire design had something to base it off of. If it was oriented off the top of the penguin it would have to have supports since it is bowl shaped. As a group we put all of our designs in the middle of the plate and close together. This is because we wanted the print to be done as fast as possible due to the time constraint. With putting all the prints in the middle of the plate the hot end assembly does not have to move around as much and they are all oriented in the middle so its not having to move across the plate. 
+
+https://mail.google.com/mail/u/0?ui=2&ik=19c6c24391&attid=0.3&permmsgid=msg-a:r1260660768153476608&th=1a05ac0e6ccfea26&view=att&disp=safe&realattid=1a05ac0d09cae4c4922&zw
+
+I did not need to use any kind of supports on my print.
+
+
+
+
+
+
+**Independent Research**
 
 One specific guideline for 3D modeling is to think about the wall thickness and have at least a 1.2 factor of safety because you don't want the wall to collapse or the object to fracture. 
 
