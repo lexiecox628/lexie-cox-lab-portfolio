@@ -44,7 +44,7 @@ I first learned how to operate the printer from a demonstration from Dr. Fagen. 
 
 
 
-https://github.com/user-attachments/assets/4b0986c8-eaf2-4f2f-b483-d0109f56218b
+<video controls width="320" src="https://github.com/user-attachments/assets/4b0986c8-eaf2-4f2f-b483-d0109f56218b">
 
 
 
