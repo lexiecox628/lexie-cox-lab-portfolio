@@ -85,6 +85,10 @@ Here is the final print
 
 
 
+https://github.com/user-attachments/assets/45c47612-23a7-4db6-b0ec-4e64992b5644
+
+
+
 #Lessons Learned
 
 The biggest mistake I made was that the keychain hole was too small to fit a keyring. Therefore now it is just a flower. I also realized that the hole was too far up to the edge of the design. This could have made the design incomplete or made it too thin to the point of breaking off. 
