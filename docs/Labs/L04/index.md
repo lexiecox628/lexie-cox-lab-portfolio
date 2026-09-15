@@ -89,7 +89,12 @@ I did not use supports in my design because the supports would not allow the tes
 ## Print Artifact
 
 
-https://github.com/user-attachments/assets/4dd474be-e8e8-4272-9878-620acbd8130c
+
+
+
+https://github.com/user-attachments/assets/49c06015-27ac-418c-9424-fb6b77bc61f4
+
+
 
 
 
