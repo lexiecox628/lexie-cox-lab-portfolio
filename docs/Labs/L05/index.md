@@ -80,6 +80,23 @@ Here is the time and print settings.
 I decided to use a gyroid filling to make it more flexible and increase the fill density to 20%.
 
 
+
+https://github.com/user-attachments/assets/4302f8f1-276f-489f-af07-1400950f7dab
+
+
+Here is the attached video of the design being printed.
+
+<img width="3024" height="4032" alt="IMG_1458" src="https://github.com/user-attachments/assets/ff2b6298-84c7-473e-9df0-1b3f3edb73f8" />
+
+<img width="3024" height="4032" alt="IMG_1458" src="https://github.com/user-attachments/assets/add55020-a851-498b-9456-703fe9d41efc" />
+
+This is the final design printed out. Overall during the test it stays together. However the prongs do deform easily so it will not hold very well in the future after multiple uses. 
+
+
 ## Communicate
+
+Build orientation affects the strength of the print by which way the part is going to be put under stress. As you build up the layers keep building on top of each other therefore if you were to pull it in that direction the layers would be weaker and pull apart easier. But if it is pulled the other way the part is stronger because it is less likely to be pulled apart and it is being pulled in parallel to the weak points. 
+
+Source:https://www.hubs.com/knowledge-base/how-does-part-orientation-affect-3d-print/ 
 
 This assignment took me a total of 8 hours to complete. 
