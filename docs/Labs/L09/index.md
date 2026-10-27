@@ -56,9 +56,11 @@ Lastly on the far right it is the loose fit. The calculation for the loose fit a
 
 This is the final design of our fit test. Each fit has a 20 mm depth.
 
+
 ## Decide
 
-(Image of fit test)
+<img width="4032" height="3024" alt="unnamed" src="https://github.com/user-attachments/assets/3a924d9f-dca2-4103-8bf1-c9cf83acda17" />
+
 
 The fit test showed that the best fit has a 0 to 0.005 mm range to take in account for kerf. We chose to do a clearance value of 0.002 mm. This is to give the parts enough room to slide together but it doesn't mean they will come apart. 
 
@@ -88,10 +90,9 @@ Next the same thing was done with the triangle piece.
 
 <img width="813" height="603" alt="95f67fdc-22c6-4368-8d1b-fc2b916337b0" src="https://github.com/user-attachments/assets/dec4d2f6-0857-4a4c-a602-3503ccbbd388" />
 
-The same thing was done for the tri-pod like shape
+The same thing was done for the plus shaped piece. 
 
-(Insert Picture of ethans CAD)
-
+<img width="862" height="808" alt="1e08a7de-4694-44a9-9987-c81d7834584e" src="https://github.com/user-attachments/assets/e372cb0b-ef30-4b41-8067-78728ff38a21" />
 
 ## Manufacturing
 
@@ -108,14 +109,35 @@ To use the laser cutter we used these steps shown to us by a staff member at the
 9. Wait for most of the smoke to leave
 10. Open once it is safe and retrieve part.
 
-(Insert video of laser cutter)
+These are the settings for the laser cutter:
 
-(Insert Pictures of shapes cut out)
+| Setting                              | Kerf Coupon | Fit Coupon | Final Cut |
+|--------------------------------------|-------------|------------|-----------|
+| Laser cutter (#4)                    | #4          | #4         | #4        |
+| Material type                        | wood        | wood       | wood      |
+| Nominal thickness                    | 1/8th inch  | 1/8th inch | 1/8th inch|
+| Measured thickness (mean)            | 2.709 mm    | 2.709 mm   | 2.709 mm  |
+| Speed                                | 20%         | 20%        | 20%       |
+| Power                                | 100%        | 100%       | 100%      |
+| Frequency or PPI (if applicable)     | 20%         | 20%        | 20%       |
+| Number of passes                     | 1           | 1          | 1         |
+| Focus method and how you confirmed it| Vector      | Vector     | Vector    |
+| Air assist on? Exhaust on?           | Yes         | Yes        | Yes       |
+| How you set origin and alignment     | Auto focus  | Auto Focus | Auto Focus|
+
+We ended up using the same settings for the fit test and the final cut 
+
+<img width="596" height="772" alt="a8c7a498-c1f4-43dc-add3-fe71e7b73fb2" src="https://github.com/user-attachments/assets/bd0fbf73-1b70-47f1-9863-2a707d42cc47" />
 
 This is all of our shapes printed out separately. 
 
-(Insert Pic of all of it together. 
+<img width="4284" height="5712" alt="IMG_1682" src="https://github.com/user-attachments/assets/9cf9d2bb-36d3-405d-8068-f8a29146a3f7" />
+
+This is the parts all put together.
+
+<img width="3024" height="4032" alt="IMG_1683" src="https://github.com/user-attachments/assets/45581ad6-a7ad-4cd5-81c3-ca237a72a240" />
 
 
 ## Lessons Learned
 
+There were many lessons learned in this project. As someone who had little knowledge about how to use a laser cutter I found it interesting to learn how to use it and 
