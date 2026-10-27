@@ -140,4 +140,12 @@ This is the parts all put together.
 
 ## Lessons Learned
 
-There were many lessons learned in this project. As someone who had little knowledge about how to use a laser cutter I found it interesting to learn how to use it and 
+There were many lessons learned in this project. As someone who had little knowledge about how to use a laser cutter I found it interesting to learn how to use it and assemble something. One thing I struggled with was finding how the kerf would affect the assembly the fits. We had to ultimately print twice because our first design burned too much and the fits would not go together right. 
+
+This project took a total of roughly 6 hours.
+
+10/23/26 - Completed Steps 1 and 2 and the documentation for these steps. This took roughly 2 hours.
+
+10/26/26 - Completed Steps 3-4 and designed the pieces to be cut out and the documentation for these steps. This took roughly 3 hours.
+
+10/27/26 - Performed final cut and finished documentation. This took roughly 1 hour.
