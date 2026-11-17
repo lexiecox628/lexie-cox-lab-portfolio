@@ -35,7 +35,19 @@ When using the resin printer the SLA material shrinks anywhere from 1.5% and 8%.
 
 When using a laser cutter, the material is getting burnt and dissipates. This means that when the design is getting printed things could be too loose or misaligned. To compensate for kerf it is useful to print out a test piece and then measure what you designed the dimension to be and what it actually is. Then you need to put tolerances in your design so the print does not fail. Another method is to use layer mapping so that you can create custom offsets for the different edges. 
 
+### Problem Definition
 
+#### Wheelchair attachment
+
+People who are in wheelchairs have no room to hold stuff when getting from place to place. Especially if they have to move their wheel chair by themselves. There hands are preoccupied and the only place to put something is in their laps. Using their lap is unstable and can also be unsafe. Things such as bags, water bottles, and so much more. Carrying these things can require additional help but what if they are by themselves or want to be more independent. 
+
+#### Buggy table
+
+When you are in a grocery store people tend to bring in a bunch of stuff with them such as a purse, phone, wallet, keys, and a lot more stuff. There is little room to put this stuff in the cart especially if you have a full cart of stuff. Not only is it unorganized and hard to find things different things fall through the holes constantly and they don't tend to stay in one spot. 
+
+#### Desk organizer
+
+My at home desk can get super crowded when I am trying to do different projects, study, or even just get cluttered from everyday life. I have pens, cords, decorations and everything in between scattered on my desk and even just thrown into drawers. When my desk is like this I feel like a mess and I feel like it drains my focus every time I sit down to do work. 
 
 
 ## Part 2
