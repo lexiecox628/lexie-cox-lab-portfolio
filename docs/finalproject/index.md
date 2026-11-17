@@ -37,17 +37,29 @@ When using a laser cutter, the material is getting burnt and dissipates. This me
 
 ### Problem Definition
 
-#### Wheelchair attachment
+#### Wheelchair
 
 People who are in wheelchairs have no room to hold stuff when getting from place to place. Especially if they have to move their wheel chair by themselves. There hands are preoccupied and the only place to put something is in their laps. Using their lap is unstable and can also be unsafe. Things such as bags, water bottles, and so much more. Carrying these things can require additional help but what if they are by themselves or want to be more independent. 
 
-#### Buggy table
+#### Buggy disaster
 
 When you are in a grocery store people tend to bring in a bunch of stuff with them such as a purse, phone, wallet, keys, and a lot more stuff. There is little room to put this stuff in the cart especially if you have a full cart of stuff. Not only is it unorganized and hard to find things different things fall through the holes constantly and they don't tend to stay in one spot. 
 
-#### Desk organizer
+#### Desk unorganized
 
 My at home desk can get super crowded when I am trying to do different projects, study, or even just get cluttered from everyday life. I have pens, cords, decorations and everything in between scattered on my desk and even just thrown into drawers. When my desk is like this I feel like a mess and I feel like it drains my focus every time I sit down to do work. 
+
+### Problem Solution
+
+The problem I chose to solve is the buggy disaster. I plan on making an attachment to the cart that will act as a table, have a cup holder, and a pen holder. This will make all of your items more organized and not fall out of the cart. It will also allow you to have some more room inside the cart. I want to solve this problem because I often see people dropping things out of their cart or getting flustered because their stuff is buried under groceries. 
+
+### Concept Development
+
+### Video
+
+
+
+
 
 
 ## Part 2
