@@ -55,6 +55,32 @@ The problem I chose to solve is the buggy disaster. I plan on making an attachme
 
 ### Concept Development
 
+### Testing Critical Features
+
+In my design I have two features I need to test before fully printing them. One is a sliding fit to extend out my design and to compensate for any difference in cart dimensions. The other is another sliding type fit so the cup holder can attach and reattach. When doing these test I scaled down the designs for time. 
+
+The first one I tested was the extension. I made a basic T design and a box that it will slide through. 
+
+<img width="707" height="677" alt="Screenshot 2026-11-20 011814" src="https://github.com/user-attachments/assets/fe7f1d1a-6f0d-431a-9e3e-292f67a811d8" />
+
+<img width="510" height="427" alt="Screenshot 2026-11-20 012206" src="https://github.com/user-attachments/assets/bd80f0cc-540d-495e-aa97-1909e523b511" />
+
+This design worked out really well and the dimensions allowed it to slide smoothly and allow for the T to have enough room at the end to attach a strap in the final design. 
+
+(Insert Pictures of T)
+
+In my design I wanted to be able to remove the cup holder for ease of storage. For this part I thought it would be interesting to experiment with a different type of sliding fit I have not done before. For this fit the cup holder will have extensions that go into the base of the board and twist to hold in place. 
+
+<img width="693" height="857" alt="Screenshot 2026-11-20 022041" src="https://github.com/user-attachments/assets/35808f48-31fe-4b1e-bb84-6b4b8ba80b30" />
+
+<img width="805" height="622" alt="Screenshot 2026-11-20 025236" src="https://github.com/user-attachments/assets/e7a4ff40-9d81-4fa0-858e-547c5e090946" />
+
+
+This design in theory worked out really well. During printing I made it too small and in result the supports would not come out of the hole. 
+
+(Insert Pictures of cup holder)
+
+
 ### Video
 
 
@@ -62,4 +88,37 @@ The problem I chose to solve is the buggy disaster. I plan on making an attachme
 
 
 
-## Part 2
+
+
+### Feedback
+
+### Refinment
+
+### Model
+
+The first thing I printed was the hook using the SLA printer. I wanted to use a 3 pronged hook that allowed it to hold multiple things. I also decided for this to be the part that uses the resin printer because I needed it to be more sturdy and have a higher yield strength. Below is the process I used for the hook design. 
+
+<img width="718" height="677" alt="Screenshot 2026-11-24 094843" src="https://github.com/user-attachments/assets/6e10b779-409e-4b14-8710-17ee68fe80cb" />
+
+First I started out by making the basic shape of one of the prongs.
+
+<img width="763" height="636" alt="Screenshot 2026-11-24 095615" src="https://github.com/user-attachments/assets/5003c333-3a71-453a-9e07-ebf92c120998" />
+
+<img width="925" height="901" alt="Screenshot 2026-11-24 095704" src="https://github.com/user-attachments/assets/e53db212-8bf8-4580-9c5d-fd240e274702" />
+
+
+Then I revolved it to make it a full circle and added a hole for a screw to fit into. 
+
+<img width="1162" height="782" alt="Screenshot 2026-11-24 100646" src="https://github.com/user-attachments/assets/7316473c-e5de-497e-9905-942c0c14fd18" />
+
+Then I made three separate cuts to make the three prongs. 
+
+<img width="633" height="797" alt="Screenshot 2026-11-24 101348" src="https://github.com/user-attachments/assets/26df0df4-dab5-45b7-aca9-071a64bb8d88" />
+
+Finally I added fillets to make sure it was smooth. 
+
+### Prints
+
+
+
+### Final Video
